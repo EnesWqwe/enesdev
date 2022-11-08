@@ -6,6 +6,6 @@
 
 👋 Ben Enes
 📫 2 Yıldır Yazılımla Uğraşıyorum
-🎮 Oyun Oynamayu Severşm
+🎮 Oyun Oynamayu Severim
 
 ```
