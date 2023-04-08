@@ -12,5 +12,5 @@
 📌KahramanMaraş
 🇹🇷 Turkey/Istanbul
 
-✨Discord: **Enesqwee_#7997**
+[![Discord Presence](https://lanyard.cnrad.dev/api/959734146308124672)](https://discord.com/users/959734146308124672)
 ```
