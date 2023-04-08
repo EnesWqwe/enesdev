@@ -12,5 +12,5 @@
 📌KahramanMaraş
 🇹🇷 Turkey/Istanbul
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/959734146308124672)](https://discord.com/users/959734146308124672)
+      <img src="https://lanyard.cnrad.dev/api/959734146308124672?bg=111111">
 ```
